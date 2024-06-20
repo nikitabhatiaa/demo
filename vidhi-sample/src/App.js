@@ -6,8 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p style={{color: "red", border: "1px solid #fff", padding: "6px"}}>
-          {/* Edit <code>src/App.js</code> and save to reload. */}
+        <p>
           This is my new project.
         </p>
         <a
